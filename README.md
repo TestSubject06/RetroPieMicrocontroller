@@ -1,7 +1,7 @@
 # RetroPieMicrocontroller
 This is the arduino sketch that runs the Feather microcontroller for an arcade cabinet project. Handles brownouts and power loss.
 
-#Uploading this to the Microcontroller
+# Uploading this to the Microcontroller
 First, this should only be necessary if the feather has just abruptly stopped working, and a press of the RESET button on the feather has no effect.
 
 You'll need the latest version of the Arduino IDE. Then follow the setup guide here to install the extra boards manager: https://learn.adafruit.com/adafruit-feather-32u4-basic-proto/setup
